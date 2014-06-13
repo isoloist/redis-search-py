@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ad_crm/!svn/ver/300/scripts/init/xpinyin
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ad_crm/!svn/ver/300/scripts/init/xpinyin/tests.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ad_crm/!svn/ver/300/scripts/init/xpinyin/__init__.py
+END
+Mandarin.dat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ad_crm/!svn/ver/300/scripts/init/xpinyin/Mandarin.dat
+END
